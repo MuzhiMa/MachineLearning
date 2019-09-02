@@ -1,2 +1,2 @@
 # MachineLearning
-Homework for Intro to Machine Learning
+Homework of Intro to Machine Learning
